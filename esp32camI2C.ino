@@ -10,4 +10,3 @@ void setup() {
 }
 void loop() {
 }
-//  display.drawFastImage( 0, 0, 128, 64, NAT_bits);
